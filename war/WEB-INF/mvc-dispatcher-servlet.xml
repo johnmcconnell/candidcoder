@@ -13,9 +13,7 @@
 
     <!-- Controller Classes -->
     <bean class="com.mcconnell.blog.controllers.AppController" />
-    <bean class="com.mcconnell.blog.controllers.AppUserController" />
     <bean class="com.mcconnell.blog.controllers.BlogController" />
-    <bean class="com.mcconnell.blog.controllers.GoalController" />
     <bean class="com.mcconnell.blog.controllers.JournalController" />
 
 	<bean
