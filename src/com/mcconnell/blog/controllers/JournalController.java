@@ -10,7 +10,7 @@ import com.mcconnell.blog.models.Journal;
 @RequestMapping(JournalController.BASE_URL)
 public class JournalController extends DataController<Journal> {
 	public static final Class<Journal> CLASS = Journal.class;
-	public static final String BASE_URL = "/goaltracker/journal";
+	public static final String BASE_URL = "api/model/journal";
 
 	public JournalController() {
 		super(CLASS);

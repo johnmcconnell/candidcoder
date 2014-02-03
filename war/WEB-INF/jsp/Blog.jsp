@@ -34,8 +34,8 @@
 		<script type="text/x-handlebars" id="journal-entry/edit">
 		<%@ include file="subviews/JournalEntryEditView.jsp"%>
 	</script>
-	<script type="text/x-handlebars" id="sign-in">
-		<%@ include file="subviews/SignIn.jsp"%>
+	<script type="text/x-handlebars" id="login"> 
+		<%@ include file="subviews/Login.jsp"%>
 	</script>
 	<script type="text/x-handlebars" id="sign-up">
 		<%@ include file="subviews/SignUp.jsp"%>
